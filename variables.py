@@ -1,3 +1,4 @@
+# variables
 name = "dia"
 age = 25
 salary = 20000.00
